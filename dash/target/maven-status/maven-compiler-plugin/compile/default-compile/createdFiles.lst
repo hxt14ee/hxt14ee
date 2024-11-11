@@ -1,0 +1,6 @@
+org\example\Database.class
+org\example\EventDAO.class
+org\example\Main.class
+org\example\User.class
+org\example\UserDAO.class
+org\example\Event.class
